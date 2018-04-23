@@ -1,0 +1,2 @@
+This is a simple web interface built in Codeigniter that you can modify to add your own OneSignal APP Key and APP ID. after adding your own key and ID,
+the interface will retrieve all devices registered with your OneSignal application and you will be able to send custom messages using the Player ID or tags. 
